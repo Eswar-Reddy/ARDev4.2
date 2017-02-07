@@ -6,6 +6,9 @@
         <members>ApxCLS1</members>
         <members>ApxCLS2</members>
         <members>ApxCLS3</members>
+        <members>ApxCLS4</members>
+        <members>ApxCLS5</members>
+        <members>ApxCLS6</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -14,6 +17,7 @@
         <members>Employee__c.EmployeeEmail__c</members>
         <members>Employee__c.EmployeeGender__c</members>
         <members>Employee__c.EmployeeMobile__c</members>
+        <members>Employee__c.Software_Engineer__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -21,6 +25,11 @@
         <members>ARCL11</members>
         <members>ARCL2</members>
         <members>ARCL22</members>
+        <members>ARCL33</members>
+        <members>ARCL34</members>
+        <members>ARCL35</members>
+        <members>ARCL36</members>
+        <members>ARCL37</members>
         <name>CustomLabel</name>
     </types>
     <types>
@@ -32,12 +41,20 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>EmployeDesignistion</members>
+        <name>GlobalPicklist</name>
+    </types>
+    <types>
         <members>Employee__c-Employee Layout</members>
         <name>Layout</name>
     </types>
     <types>
         <members>Employee__c.All</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>Employee__c.EmpNameValidationRule1</members>
+        <name>ValidationRule</name>
     </types>
     <types>
         <members>Employee__c.Employee_Created_filed_modified_in_org_38</members>

@@ -53,4 +53,74 @@ cl15
 cl16
 cl17</value>
     </labels>
+    <labels>
+        <fullName>ARCL33</fullName>
+        <categories>test1cls1,test2cls1</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARCL1</shortDescription>
+        <value>cl11
+cl12
+cl13
+cl14
+cl15
+cl16
+cl17</value>
+    </labels>
+    <labels>
+        <fullName>ARCL34</fullName>
+        <categories>test1cls1,test2cls1</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARCL1</shortDescription>
+        <value>cl11
+cl12
+cl13
+cl14
+cl15
+cl16
+cl17</value>
+    </labels>
+    <labels>
+        <fullName>ARCL35</fullName>
+        <categories>test1cls1,test2cls1</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARCL1</shortDescription>
+        <value>cl11
+cl12
+cl13
+cl14
+cl15
+cl16
+cl17</value>
+    </labels>
+    <labels>
+        <fullName>ARCL36</fullName>
+        <categories>test1cls1,test2cls1</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARCL1</shortDescription>
+        <value>cl11
+cl12
+cl13
+cl14
+cl15
+cl16
+cl17</value>
+    </labels>
+    <labels>
+        <fullName>ARCL37</fullName>
+        <categories>test1cls1,test2cls1</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARCL1</shortDescription>
+        <value>cl11
+cl12
+cl13
+cl14
+cl15
+cl16
+cl17</value>
+    </labels>
 </CustomLabels>

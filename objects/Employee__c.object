@@ -120,6 +120,18 @@
         <trackTrending>false</trackTrending>
         <type>Phone</type>
     </fields>
+    <fields>
+        <fullName>Software_Engineer__c</fullName>
+        <description>Please select respected designation</description>
+        <externalId>false</externalId>
+        <globalPicklist>EmployeDesignistion</globalPicklist>
+        <inlineHelpText>Please select one value</inlineHelpText>
+        <label>EmpDesignation</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
     <label>Employee</label>
     <listViews>
         <fullName>All</fullName>
@@ -134,4 +146,10 @@
     <pluralLabel>Employees</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>EmpNameValidationRule1</fullName>
+        <active>true</active>
+        <errorConditionFormula>NOT(  LEN( Name  ) &gt;= 4 )</errorConditionFormula>
+        <errorMessage>Employee name shoulb not be empty require length is 4</errorMessage>
+    </validationRules>
 </CustomObject>
