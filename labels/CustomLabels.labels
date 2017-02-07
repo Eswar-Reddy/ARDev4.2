@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ARCL1</fullName>
+        <categories>test1cls1,test2cls1</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARCL1</shortDescription>
+        <value>cl11
+cl12
+cl13
+cl14
+cl15
+cl16
+cl17</value>
+    </labels>
+    <labels>
+        <fullName>ARCL11</fullName>
+        <categories>test1cls1,test2cls1</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARCL1</shortDescription>
+        <value>cl11
+cl12
+cl13
+cl14
+cl15
+cl16
+cl17</value>
+    </labels>
+    <labels>
+        <fullName>ARCL2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARCL2</shortDescription>
+        <value>cl21
+cl22
+cl23
+cl24
+cl25</value>
+    </labels>
+    <labels>
+        <fullName>ARCL22</fullName>
+        <categories>test1cls1,test2cls1</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ARCL1</shortDescription>
+        <value>cl11
+cl12
+cl13
+cl14
+cl15
+cl16
+cl17</value>
+    </labels>
+</CustomLabels>

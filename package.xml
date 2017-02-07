@@ -4,6 +4,47 @@
     <types>
         <members>A11</members>
         <members>ApxCLS1</members>
+        <members>ApxCLS2</members>
+        <members>ApxCLS3</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Employee__c.EmployeeAbout__c</members>
+        <members>Employee__c.EmployeeDOB__c</members>
+        <members>Employee__c.EmployeeEmail__c</members>
+        <members>Employee__c.EmployeeGender__c</members>
+        <members>Employee__c.EmployeeMobile__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ARCL1</members>
+        <members>ARCL11</members>
+        <members>ARCL2</members>
+        <members>ARCL22</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>Employee__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Employee__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Employee__c-Employee Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Employee__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Employee__c.Employee_Created_filed_modified_in_org_38</members>
+        <name>WorkflowAlert</name>
+    </types>
+    <types>
+        <members>Employee__c.EmployeeRule1</members>
+        <name>WorkflowRule</name>
     </types>
 </Package>
