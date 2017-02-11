@@ -1,17 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>37.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>A11</members>
+        <members>Apc111</members>
+        <members>Apcl1</members>
+        <members>Apcl134566</members>
+        <members>Apcl2</members>
+        <members>Aplcs3</members>
+        <members>Aplcs4</members>
         <members>ApxCLS1</members>
         <members>ApxCLS2</members>
         <members>ApxCLS3</members>
         <members>ApxCLS4</members>
         <members>ApxCLS5</members>
         <members>ApxCLS6</members>
+        <members>ApxCls001</members>
+        <members>Sample1113</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Bike__c.BikeModelNumber__c</members>
+        <members>Bike__c.BikePrice__c</members>
+        <members>Bike__c.BikeShowrromLocation__c</members>
+        <members>Bike__c.BikeSpecifications__c</members>
         <members>Employee__c.EmployeeAbout__c</members>
         <members>Employee__c.EmployeeDOB__c</members>
         <members>Employee__c.EmployeeEmail__c</members>
@@ -33,6 +43,7 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>Bike__c</members>
         <members>Employee__c</members>
         <name>CustomObject</name>
     </types>
@@ -41,16 +52,44 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>Color</members>
         <members>EmployeDesignistion</members>
+        <members>Location</members>
         <name>GlobalPicklist</name>
     </types>
     <types>
+        <members>Bike__c-Bike Layout</members>
         <members>Employee__c-Employee Layout</members>
         <name>Layout</name>
     </types>
     <types>
         <members>Employee__c.All</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>ContractManager</members>
+        <members>Cross Org Data Proxy User</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Custom%3A Sales Profile</members>
+        <members>Custom%3A Support Profile</members>
+        <members>Force%2Ecom - App Subscription User</members>
+        <members>Force%2Ecom - Free User</members>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Partner App Subscription User</members>
+        <members>ReadOnly</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>StandardAul</members>
+        <members>Work%2Ecom Only User</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Bike__c</members>
+        <name>SharingRules</name>
     </types>
     <types>
         <members>Employee__c.EmpNameValidationRule1</members>
@@ -64,4 +103,5 @@
         <members>Employee__c.EmployeeRule1</members>
         <name>WorkflowRule</name>
     </types>
+    <version>37.0</version>
 </Package>
