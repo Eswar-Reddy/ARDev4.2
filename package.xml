@@ -17,6 +17,7 @@
         <members>Sample1113</members>
         <name>ApexClass</name>
     </types>
+	
     <types>
         <members>Bike__c.BikeModelNumber__c</members>
         <members>Bike__c.BikePrice__c</members>
